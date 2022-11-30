@@ -1,0 +1,1 @@
+My program calculates the Net Pay of an employee.It also indicates the Gross Pay,Nssf,Taxable Pay,Insuarance Relief,Personal Relief,P.A.Y.E and Nhif.
